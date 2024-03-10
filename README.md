@@ -53,5 +53,5 @@ print("For in the land of ones and zeros,")
 print("They dance the eternal digital dance.")
 print("\nSo let us raise our virtual glasses,")
 print("To the algorithms' graceful prance,")
-print("For in the land of ones and zeros,")
+
 
